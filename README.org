@@ -1,0 +1,38 @@
+From [[https://adventofcode.com/2022][Advent of Code, 2022]]
+
+My Stats:
+
+| Day | Part 1 | Part 2 |
+|-----+--------+--------|
+|  25 | *      |        |
+|  24 |        |        |
+|  23 |        |        |
+|  22 |        |        |
+|  21 | *      |        |
+|  20 |        |        |
+|  19 |        |        |
+|  18 | *      |        |
+|  17 |        |        |
+|  16 |        |        |
+|  15 |        |        |
+|  14 | *      |        |
+|  13 |        |        |
+|  12 |        |        |
+|  11 |        |        |
+|  10 | *      |        |
+|   9 | *      | *      |
+|   8 | *      | *      |
+|   7 |        |        |
+|   6 | *      | *      |
+|   5 |        |        |
+|   4 | *      | *      |
+|   3 | *      | *      |
+|   2 | *      | *      |
+|   1 | *      | *      |
+
+
+- Some reflections:
+  - My lack of formal CS knowledge is a hindrance, especially Algorithms and Data Structures.
+    - Many tasks involved Depth/Breadth-first search
+  - These type of core CS problems seem more suited for imperative and mutable languages. Many problems involved explicit arrays and working with indices.
+  - Lots of the days I skipped involved parsing I deemed too annoying. I personally don't really understand why they make the input text so complicated; using JSON etc. would skip straight to the problem solving.
